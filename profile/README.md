@@ -1,9 +1,13 @@
 ## The Pixel Etch
 
-Small, free tools for video editors, made in Australia.
+We shoot photography and reels, and build small apps when a tool we need
+doesn't exist. Everything here started as a fix for our own workflow and
+is free to use.
 
-### Slateflow
+### Apps
 
-A macOS app that sets up a Final Cut Pro project in one click: a numbered folder, the same folder tree every time, a folder per camera, and an `.fcpxml` that has Final Cut create the library inside the project. Everything stays on your Mac.
+| App | What it does | Platform |
+|---|---|---|
+| [Slateflow](https://github.com/PixelEtch/Slateflow) | Sets up a Final Cut Pro project in one click: numbered folder, folder per camera, and the library created for you. | macOS |
 
-[Download](https://github.com/PixelEtch/Slateflow/releases) · [Source](https://github.com/PixelEtch/Slateflow) · [Report an issue](https://github.com/PixelEtch/Slateflow/issues/new/choose)
+More on the way. Each app has its own repo with downloads, docs and issues.
