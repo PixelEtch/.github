@@ -1,13 +1,25 @@
-## The Pixel Etch
+<h2 align="center">The Pixel Etch</h2>
+<p align="center"><i>We shoot, we edit, and we build the shortcuts we wish existed.</i></p>
 
-Photography and reels by day, software engineering by trade.
-When the same chore slows the workflow down twice, it becomes a small app or
-utility here. All free, all built for real daily use.
+---
 
-### Apps and utilities
+### 📷 What we make
 
-| Project | What it does | Platform |
+**Photography and reels.** Stills, short-form video and the edits behind them.
+
+**Apps and utilities.** Every time the same chore slows a shoot or an edit down,
+it becomes a small, free tool here. Built for our own workflow first, then shared.
+
+### 🛠 Apps and utilities
+
+| Project | Saves you from | Platform |
 |---|---|---|
-| [Slateflow](https://github.com/PixelEtch/Slateflow) | Sets up a Final Cut Pro project in one click: numbered folder, folder per camera, and the library created for you. | macOS |
+| [**Slateflow**](https://github.com/PixelEtch/Slateflow) | Building the same Final Cut Pro project folders by hand. One click gives you a numbered project, a folder per camera, and the library created for you. | macOS |
 
-More as new everyday problems turn up. Each project has its own repo with downloads, docs and issues.
+*Next tool: whatever slows us down next.*
+
+### 💡 How we build
+
+- **Small:** each tool does one job well.
+- **Local:** your files stay on your machine.
+- **Free and open source:** use it, fork it, improve it.
