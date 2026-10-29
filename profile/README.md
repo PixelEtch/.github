@@ -1,13 +1,13 @@
 ## The Pixel Etch
 
-We shoot photography and reels, and build small apps when a tool we need
-doesn't exist. Everything here started as a fix for our own workflow and
-is free to use.
+Photography and reels by day, software engineering by trade.
+When the same chore slows the workflow down twice, it becomes a small app or
+utility here. All free, all built for real daily use.
 
-### Apps
+### Apps and utilities
 
-| App | What it does | Platform |
+| Project | What it does | Platform |
 |---|---|---|
 | [Slateflow](https://github.com/PixelEtch/Slateflow) | Sets up a Final Cut Pro project in one click: numbered folder, folder per camera, and the library created for you. | macOS |
 
-More on the way. Each app has its own repo with downloads, docs and issues.
+More as new everyday problems turn up. Each project has its own repo with downloads, docs and issues.
